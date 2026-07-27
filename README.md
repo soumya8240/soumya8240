@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech student of AI & Data Science 👨‍💻<br>Aspiring Researcher in Neuroscience & Neurotechnology 🧠<br>Passionate About Brain - computer interface (BCI), Robotics and AI in Healthcare 🤖<br>I like to code and make DIY projects with Arduino . 💡<br>I like badminton 🏸
+B.Tech student of AI & Data Science 👨‍💻<br> Researcher in Neuroscience & Neurotechnology 🧠<br>Passionate About Brain - computer interface (BCI), Robotics and AI in Healthcare 🤖<br>I like to code and make DIY projects with Arduino . 💡<br>I like badminton 🏸
 
 
 ## 🌐 Socials:
